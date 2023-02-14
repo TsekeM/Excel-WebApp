@@ -7,10 +7,3 @@ In this tutorial, I am going to show you how to convert Excel Files into a Web A
 ## Author
 
 - Tseke Maila
-
-
-
-
-
-
-
